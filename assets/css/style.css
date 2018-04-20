@@ -1,13 +1,10 @@
 body {
     background-image: url(../images/star-wars-background.jpg);
-}
-
-h2, h3, p {
     color: #ffd700;
-    font-size:30px;
+    font-size:36px;
     font-family: 'Gugi', cursive;
-
 }
+
 
 .jumbotron {
     text-align:center;
@@ -19,7 +16,3 @@ h2, h3, p {
 
 }
 
-.section {
-    background-color:#1b1b1b;
-    opacity: .75;
-}
